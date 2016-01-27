@@ -15,7 +15,8 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "ejs": "^2.4.1",
-    "express": "^4.13.4"
+    "express": "^4.13.4",
+    "mongodb": "^2.1.4"
   },
   "devDependencies": {
     "gulp": "^3.9.0",
